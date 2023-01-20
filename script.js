@@ -46,3 +46,13 @@ function deleteCheck(e) {
         });
     }
 
+    if(item.classList[0] === "complete-btn") {
+        const todo = item.parentElement;
+        todo.classList.toggle("completed");
+    }
+}
+
+function filterTodo(e) {
+    const todos = todoList.childNodes;
+    todos.forEach(function(todo) {
+        switch(e.target.value) {
