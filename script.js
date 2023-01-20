@@ -32,3 +32,8 @@ function addTodo(event) {
     todoList.appendChild(todoDiv);
     todoInput.value = "";
 }
+
+function deleteCheck(e) {
+    const item = e.target;
+
+    if(item.classList[0] === "trash-btn") {
