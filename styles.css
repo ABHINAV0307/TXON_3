@@ -14,6 +14,14 @@ body {
 header {
     font-size: 1.5rem;
 }
+
+.todo li {
+    flex: 1;
+}
+
+.trash-btn, 
+.complete-btn {
+    color: white;
 }
 
 .todo-item {
