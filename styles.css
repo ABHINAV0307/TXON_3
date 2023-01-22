@@ -29,3 +29,15 @@ header {
     text-decoration: line-through;
     opacity: 0.5;
 }
+
+.slide {
+    transform: translateX(10rem);
+    opacity: 0;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    outline: none;
+    border: none;
