@@ -21,6 +21,12 @@ form {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+form input, 
+form button {
+    padding: 0.5rem;
+    padding-left: 1rem;
 .todo li {
     flex: 1;
 }
