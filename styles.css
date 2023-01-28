@@ -62,6 +62,11 @@ form button:hover {
     list-style: none;
 }
 
+.todo {
+    margin: 0.5rem;
+    padding-left: 0.5rem;
+    background: white;
+    color: black;
 .todo li {
     flex: 1;
 }
