@@ -92,6 +92,12 @@ form button:hover {
     background: rgb(255, 200, 0);
 }
 
+.trash-btn {
+    border-top-right-radius: 1.75rem;
+    border-bottom-right-radius: 1.75rem;
+    background: rgb(171, 171, 171);
+}
+
 .todo-item {
     padding: 0rem 0.5rem;
 }
