@@ -137,3 +137,7 @@ select {
     width: 10rem;
     height: 3.2rem;
     cursor: pointer;
+    padding: 1rem;
+}
+
+.select::after {
