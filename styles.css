@@ -142,3 +142,5 @@ select {
 
 .select::after {
     content: "\25BC";
+    position: absolute;
+    background:rgb(255, 200, 0);
