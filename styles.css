@@ -151,3 +151,4 @@ select {
     transition: all 0.3s ease;
 }
 
+.select::hover::after {
