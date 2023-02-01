@@ -152,5 +152,6 @@ select {
 }
 
 .select::hover::after {
+    background: white;
     color: rgb(255, 200, 0);
 }
