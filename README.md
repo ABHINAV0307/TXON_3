@@ -1,4 +1,4 @@
-#03- Create a to-do list App
+#03- Create a to-do list App.
 
 In this project, you will be using Basic Html,
 CSS, and JavaScript.
